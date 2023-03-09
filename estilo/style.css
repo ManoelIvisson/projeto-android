@@ -43,7 +43,6 @@ header > h1 {
 header > p {
     font: 1.2em var(--fonte-padrao);
     color: var(--cor-terciaria);
-    margin-top: 20px;
     font-size: 1.2em;
     max-width: 600px;
     margin: auto;
